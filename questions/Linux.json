@@ -1,0 +1,30 @@
+[
+    {
+        "text": "Quels sont les avantages de l'utilisation de Linux par rapport à d'autres systèmes d'exploitation ?",
+        "reponse": "Linux est gratuit, stable, personnalisable, possède une large communauté et est polyvalent."
+    },
+    {
+        "text": "Qu'est-ce qu'un terminal Linux et à quoi sert-il ?",
+        "reponse": "Un terminal est l'interface en ligne de commande qui permet d'interagir directement avec le système."
+    },
+    {
+        "text": "Comment pouvez-vous créer un fichier et un répertoire en utilisant le terminal Linux ?",
+        "reponse": "Vous pouvez utiliser la commande `mkdir` pour créer un répertoire et `touch` pour créer un fichier."
+    },
+    {
+        "text": "Qu'est-ce qu'une distribution Linux et pouvez-vous en citer quelques exemples ?",
+        "reponse": "Une distribution Linux est une version de Linux qui inclut le noyau Linux, des outils et des logiciels supplémentaires. Exemples : Ubuntu, Fedora, Debian."
+    },
+    {
+        "text": "Quel est le rôle du noyau Linux dans le système d'exploitation ?",
+        "reponse": "Le noyau Linux est le cœur du système et il gère les ressources matérielles et les logiciels."
+    },
+    {
+        "text": "Quelles sont quelques commandes de base en Linux et leurs fonctions ?",
+        "reponse": "`ls` liste les fichiers et répertoires, `cd` change de répertoire, `mkdir` crée un répertoire, `touch` crée un fichier, `rm` supprime un fichier ou répertoire, `cp` copie un fichier ou répertoire, `mv` déplace ou renomme un fichier ou répertoire."
+    },
+    {
+        "text": "Quelles sont quelques ressources disponibles pour apprendre Linux ?",
+        "reponse": "Les manuels de commande, les tutoriels en ligne, les distributions pour débutants comme Ubuntu et Linux Mint, et les communautés en ligne sont des ressources pour apprendre Linux."
+    }
+]

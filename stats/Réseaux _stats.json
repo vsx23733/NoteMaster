@@ -1,0 +1,39 @@
+{
+    "attempts": [
+        {
+            "timestamp": "2025-03-28T11:48:05.503648",
+            "question": "Quels sont les principaux types de réseaux informatiques et en quoi diffèrent-ils ?",
+            "user_answer": "Les différents types ont",
+            "correct_answer": "Les principaux types de réseaux informatiques sont les réseaux locaux (LAN), les réseaux étendus (WAN) et les réseaux métropolitains (MAN). Un LAN connecte des périphériques dans une zone géographique restreinte, un WAN connecte des réseaux locaux sur de longues distances, et un MAN couvre une ville ou une région urbaine.",
+            "score": "0"
+        },
+        {
+            "timestamp": "2025-03-28T11:48:06.596312",
+            "question": "Comparez les modèles de communication OSI et TCP/IP. Quelles sont leurs différences principales ?",
+            "user_answer": "Les modèles TCp sont",
+            "correct_answer": "Le modèle OSI est composé de 7 couches (Physique, Liaison de données, Réseau, Transport, Session, Présentation, Application), tandis que le modèle TCP/IP en utilise 4 (Accès au réseau, Internet, Transport, Application). Le modèle TCP/IP est une version simplifiée du modèle OSI et est utilisé sur Internet.",
+            "score": "0"
+        },
+        {
+            "timestamp": "2025-03-28T11:48:08.232716",
+            "question": "Quels sont les protocoles réseau couramment utilisés et à quoi servent-ils ?",
+            "user_answer": "Les protocoles réseaux",
+            "correct_answer": "Les protocoles réseau couramment utilisés incluent HTTP/HTTPS pour la navigation sur le web, TCP/UDP pour la transmission de données, IP pour l'adressage des dispositifs sur un réseau, et DNS pour traduire les noms de domaine en adresses IP.",
+            "score": "1"
+        },
+        {
+            "timestamp": "2025-03-28T11:48:09.504691",
+            "question": "Quel rôle jouent les équipements réseau tels que les routeurs, commutateurs et points d'accès sans fil dans un réseau informatique ?",
+            "user_answer": "Les routeurs",
+            "correct_answer": "Les routeurs connectent plusieurs réseaux ensemble et dirigent les paquets de données, les commutateurs connectent des périphériques dans un réseau local, et les points d'accès sans fil permettent aux appareils de se connecter via Wi-Fi.",
+            "score": "1"
+        },
+        {
+            "timestamp": "2025-03-28T11:48:10.723769",
+            "question": "Expliquez les concepts fondamentaux d'adresse IP, de masque de sous-réseau et de passerelle par défaut. Pourquoi sont-ils importants dans un réseau ?",
+            "user_answer": "ADresses IP",
+            "correct_answer": "Une adresse IP est une adresse unique attribuée à chaque périphérique sur un réseau. Le masque de sous-réseau est utilisé pour diviser un réseau en sous-réseaux, et la passerelle par défaut permet à un périphérique de communiquer avec des périphériques en dehors de son réseau. Ces concepts sont essentiels pour la configuration et la communication sur un réseau.",
+            "score": "3"
+        }
+    ]
+}

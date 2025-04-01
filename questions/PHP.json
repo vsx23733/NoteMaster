@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Quelles sont les principales caractéristiques de PHP en tant que langage de script côté serveur ?",
+        "reponse": "PHP est un langage de script côté serveur particulièrement adapté au développement web. Il permet de créer des sites dynamiques en interagissant avec des bases de données et en générant du contenu HTML."
+    },
+    {
+        "text": "Quels sont les éléments fondamentaux de la programmation en PHP ?",
+        "reponse": "Les éléments fondamentaux de la programmation en PHP incluent : une syntaxe simple inspirée de langages comme C et Perl, l'utilisation de variables et de différents types de données, les structures de contrôle comme les conditions et les boucles, et les fonctions pour organiser le code."
+    },
+    {
+        "text": "Comment PHP interagit-il avec les bases de données dans le développement web ?",
+        "reponse": "PHP interagit avec les bases de données en utilisant MySQL, le SGBDR le plus couramment utilisé, et PDO, une interface pour accéder à différentes bases de données, offrant une couche d'abstraction et améliorant la sécurité."
+    },
+    {
+        "text": "Quels sont les avantages de l'utilisation de frameworks PHP comme Laravel, Symfony, et CodeIgniter ?",
+        "reponse": "Les frameworks PHP comme Laravel, Symfony, et CodeIgniter fournissent une structure et des outils pour accélérer le développement d'applications web, en offrant des fonctionnalités prêtes à l'emploi et en simplifiant la gestion du code."
+    },
+    {
+        "text": "Quelles mesures de sécurité sont essentielles lors de la programmation en PHP ?",
+        "reponse": "Les mesures de sécurité essentielles en PHP incluent : la validation des données, l'échappement des caractères spéciaux, l'utilisation de sessions sécurisées, et la prévention des vulnérabilités courantes comme les injections SQL, XSS, et CSRF."
+    },
+    {
+        "text": "Pourquoi la pratique est-elle importante dans l'apprentissage de la programmation en PHP ?",
+        "reponse": "La pratique est importante dans l'apprentissage de la programmation en PHP car elle permet de mettre en application les connaissances acquises, d'expérimenter avec des projets concrets, et de mieux comprendre les concepts à travers l'expérience."
+    }
+]

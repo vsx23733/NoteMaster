@@ -1,0 +1,102 @@
+{
+    "attempts": [
+        {
+            "timestamp": "2025-03-28T13:00:15.779519",
+            "question": "Quels sont les avantages de l'utilisation de Linux par rapport à d'autres systèmes d'exploitation ?",
+            "user_answer": "Linux est plus versatile",
+            "correct_answer": "Linux est gratuit, stable, personnalisable, possède une large communauté et est polyvalent.",
+            "score": "0"
+        },
+        {
+            "timestamp": "2025-03-28T13:00:17.205003",
+            "question": "Qu'est-ce qu'un terminal Linux et à quoi sert-il ?",
+            "user_answer": "Il permet d'enter des lignes de commandes",
+            "correct_answer": "Un terminal est l'interface en ligne de commande qui permet d'interagir directement avec le système.",
+            "score": "0"
+        },
+        {
+            "timestamp": "2025-03-28T13:00:18.773503",
+            "question": "Comment pouvez-vous créer un fichier et un répertoire en utilisant le terminal Linux ?",
+            "user_answer": "Il faut utilisr la fonction echo",
+            "correct_answer": "Vous pouvez utiliser la commande `mkdir` pour créer un répertoire et `touch` pour créer un fichier.",
+            "score": "0"
+        },
+        {
+            "timestamp": "2025-03-28T13:00:20.223484",
+            "question": "Qu'est-ce qu'une distribution Linux et pouvez-vous en citer quelques exemples ?",
+            "user_answer": "C'est une version de Linux. Exemple DEBIAN",
+            "correct_answer": "Une distribution Linux est une version de Linux qui inclut le noyau Linux, des outils et des logiciels supplémentaires. Exemples : Ubuntu, Fedora, Debian.",
+            "score": "0"
+        },
+        {
+            "timestamp": "2025-03-28T13:00:21.599202",
+            "question": "Quel est le rôle du noyau Linux dans le système d'exploitation ?",
+            "user_answer": "Le noyau prmet d'interagir avec le hardware",
+            "correct_answer": "Le noyau Linux est le cœur du système et il gère les ressources matérielles et les logiciels.",
+            "score": "0"
+        },
+        {
+            "timestamp": "2025-03-28T13:00:22.977361",
+            "question": "Quelles sont quelques commandes de base en Linux et leurs fonctions ?",
+            "user_answer": "Ls\necho\ncd",
+            "correct_answer": "`ls` liste les fichiers et répertoires, `cd` change de répertoire, `mkdir` crée un répertoire, `touch` crée un fichier, `rm` supprime un fichier ou répertoire, `cp` copie un fichier ou répertoire, `mv` déplace ou renomme un fichier ou répertoire.",
+            "score": "0"
+        },
+        {
+            "timestamp": "2025-03-28T13:00:24.356370",
+            "question": "Quelles sont quelques ressources disponibles pour apprendre Linux ?",
+            "user_answer": "La documentation",
+            "correct_answer": "Les manuels de commande, les tutoriels en ligne, les distributions pour débutants comme Ubuntu et Linux Mint, et les communautés en ligne sont des ressources pour apprendre Linux.",
+            "score": "0"
+        },
+        {
+            "timestamp": "2025-03-29T09:04:24.560347",
+            "question": "Quels sont les avantages de l'utilisation de Linux par rapport à d'autres systèmes d'exploitation ?",
+            "user_answer": "Linux est plus flexible et personalisable",
+            "correct_answer": "Linux est gratuit, stable, personnalisable, possède une large communauté et est polyvalent.",
+            "score": "4"
+        },
+        {
+            "timestamp": "2025-03-29T09:04:25.582055",
+            "question": "Qu'est-ce qu'un terminal Linux et à quoi sert-il ?",
+            "user_answer": "C'est une interface où l'on peut taper des lignes de commande",
+            "correct_answer": "Un terminal est l'interface en ligne de commande qui permet d'interagir directement avec le système.",
+            "score": "5"
+        },
+        {
+            "timestamp": "2025-03-29T09:04:26.771196",
+            "question": "Comment pouvez-vous créer un fichier et un répertoire en utilisant le terminal Linux ?",
+            "user_answer": "Il faut utiliser la fonction echo",
+            "correct_answer": "Vous pouvez utiliser la commande `mkdir` pour créer un répertoire et `touch` pour créer un fichier.",
+            "score": "1"
+        },
+        {
+            "timestamp": "2025-03-29T09:04:27.618629",
+            "question": "Qu'est-ce qu'une distribution Linux et pouvez-vous en citer quelques exemples ?",
+            "user_answer": "C'est une certaine version de linux faites pour des fins différents. Example Debian ou Kali Linux",
+            "correct_answer": "Une distribution Linux est une version de Linux qui inclut le noyau Linux, des outils et des logiciels supplémentaires. Exemples : Ubuntu, Fedora, Debian.",
+            "score": "5"
+        },
+        {
+            "timestamp": "2025-03-29T09:04:29.145261",
+            "question": "Quel est le rôle du noyau Linux dans le système d'exploitation ?",
+            "user_answer": "C'est un porgramme erpmettant d'interagir avec le hardware",
+            "correct_answer": "Le noyau Linux est le cœur du système et il gère les ressources matérielles et les logiciels.",
+            "score": "4"
+        },
+        {
+            "timestamp": "2025-03-29T09:04:30.006868",
+            "question": "Quelles sont quelques commandes de base en Linux et leurs fonctions ?",
+            "user_answer": "Nous avons ls, echo, cd",
+            "correct_answer": "`ls` liste les fichiers et répertoires, `cd` change de répertoire, `mkdir` crée un répertoire, `touch` crée un fichier, `rm` supprime un fichier ou répertoire, `cp` copie un fichier ou répertoire, `mv` déplace ou renomme un fichier ou répertoire.",
+            "score": "3"
+        },
+        {
+            "timestamp": "2025-03-29T09:04:31.101784",
+            "question": "Quelles sont quelques ressources disponibles pour apprendre Linux ?",
+            "user_answer": "La documentation, le repo github, les tuto youtube. ",
+            "correct_answer": "Les manuels de commande, les tutoriels en ligne, les distributions pour débutants comme Ubuntu et Linux Mint, et les communautés en ligne sont des ressources pour apprendre Linux.",
+            "score": "4"
+        }
+    ]
+}
