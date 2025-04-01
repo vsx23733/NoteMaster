@@ -1,6 +1,9 @@
 # 📝 NoteMaster with FastAPI
 
 NoteMaster is a powerful and user-friendly note-taking application built using FastAPI and Streamlit. It allows users to create, manage, and analyze their notes efficiently. The app also provides AI-generated questions to help users retain information effectively.
+The purpose of this app is to help users learn actively using AI in a simple but efficient way but also to learn from each and other insights.
+The subjects that one user create with the question and answers associated aren't private so as allow other users to learn that also and then improve their knowledge somehow with the help of other users also.
+This is one of the first open-collaborative learning platform.
 
 ## 🚀 Features
 
@@ -48,7 +51,7 @@ The API will be available at `http://127.0.0.1:8000`.
 
 ### Start the Streamlit Frontend
 ```sh
-$ streamlit run src/frontend.py
+$ streamlit run src/notemaster.py
 ```
 This will launch the web app in your default browser.
 
@@ -70,16 +73,21 @@ This will launch the web app in your default browser.
 
 ## 🤝 Contributing
 
-We welcome contributions! To contribute:
+I welcome contributions! To contribute:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
 
+## 🎯 Next imrprovements
+
+1. Adding more insights and detailed analysis of the answer
+2. Organizing the notes per subjects
+3. Improve the UI
+4. Link to an online Database
+5. Deploy on web
+
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-### 🎯 Stay tuned for future updates!
